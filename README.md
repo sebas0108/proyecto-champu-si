@@ -2,7 +2,7 @@
 
 ## 1. Enlaces del Proyecto
 * **Dirección pública de la aplicación:** https://proyecto-champu-si.onrender.com*
-* **Repositorio público en GitHub:** https://github.com/tu-usuario/proyecto_champu *(actualizar tras subir a GitHub)*
+* **Repositorio público en GitHub:** https://github.com/sebas0108/proyecto-champu-si.git*
 
 ## 2. Identidad del Sistema de Información
 * **Organización:** Distribuidora Capilaria S.A.S.
